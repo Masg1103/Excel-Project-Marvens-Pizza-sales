@@ -10,3 +10,4 @@ This report presents a comprehensive analysis of the sales data for Marvens Pizz
 •	Employing charts for visual representation of trends and insights.
 
 The report can be found https://medium.com/@mamigyasi/unveiling-the-secrets-of-marvens-pizza-places-success-in-2015-57a0d615bebe
+![_MG_9932](https://github.com/Masg1103/Excel-Project-Marvens-Pizza-sales/assets/139725529/4599a330-f958-4833-9f6d-258325e359a5)
